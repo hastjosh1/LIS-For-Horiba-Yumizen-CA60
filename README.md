@@ -17,6 +17,17 @@ The Yumizen CA60 is a semi-automated clinical chemistry analyzer. While it is ma
 **Data Format:** JSON  
 **Default Port:** `8080`
 
+#### Interface Screenshots
+<details>
+<summary>Click to view machine interface screenshots</summary>
+
+*(Note: You can replace these placeholder images by editing this file on GitHub and dragging and dropping your real screenshots here)*
+
+![Horiba CA60 Web UI](https://via.placeholder.com/800x400?text=Upload+Horiba+Web+UI+Screenshot+Here)
+![API Error / Network Request](https://via.placeholder.com/800x400?text=Upload+Network+Request+Screenshot+Here)
+
+</details>
+
 #### How to Fetch Data
 Unlike older machines that "push" data when a test finishes, the CA60 requires the LIS agent to periodically "pull" (poll) the data using an HTTP `POST` request to `/queries`.
 
