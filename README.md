@@ -17,11 +17,11 @@ The Yumizen CA60 is a semi-automated clinical chemistry analyzer. While it is ma
 **Data Format:** JSON  
 **Default Port:** `8080`
 
-#### Interface Screenshots
+![... <img width="1792" height="1120" alt="Screenshot 2026-06-17 at 6 07 27 PM" src="https://github.com/user-attachments/assets/9f3caac5-04d9-43d4-b3c8-95756e4fcf0c" />
+
 <details>
 <summary>Click to view machine interface screenshots</summary>
-
-*(Note: You can replace these placeholder images by editing this file on GitHub and dragging and dropping your real screenshots here)*
+The 90kb post Request is for the results data 
 
 ![Horiba CA60 Web UI](https://via.placeholder.com/800x400?text=Upload+Horiba+Web+UI+Screenshot+Here)
 ![API Error / Network Request](https://via.placeholder.com/800x400?text=Upload+Network+Request+Screenshot+Here)
